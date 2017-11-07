@@ -1,4 +1,6 @@
 {
   "test_add_project.py::test_add_project[project0]": true,
-  "test_del_project.py::test_del_project": true
+  "test_del_project.py::test_del_project": true,
+  "test_login.py::test_login": true,
+  "test_signup_new_account.py::test_signup_new_account": true
 }

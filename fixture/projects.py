@@ -36,4 +36,3 @@ class ProjectHelper:
         wd = self.app.wd
         wd.find_element_by_link_text("Manage").click()
         wd.find_element_by_link_text("Manage Projects").click()
-
